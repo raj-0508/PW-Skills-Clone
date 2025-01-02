@@ -1,6 +1,6 @@
 # Project  [Live Link](https://pw-skills-clone-chi.vercel.app/)
 
-# PW Skills Clone
+# PW Skills Clone.
 
 Project: Responsive Website with Tailwind CSS.
 
